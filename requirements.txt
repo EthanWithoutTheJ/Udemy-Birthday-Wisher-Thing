@@ -1,1 +1,6 @@
 pandas
+datetime
+os
+random
+pathlib
+smtplib
